@@ -1,0 +1,14 @@
+{
+  "name": "devops-pipelines",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:EdwinDiaz93/devops-pipelines.git",
+  "author": "Edwin Diaz <josephph1993@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev":"node ./src/index.js",
+    "test":"node ./src/test.js"
+  }
+  
+
+}
